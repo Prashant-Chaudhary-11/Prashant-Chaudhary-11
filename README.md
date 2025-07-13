@@ -1,67 +1,54 @@
-# Hi there, I'm Prashant Chaudhary! 👋
-
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer and tech enthusiast who loves crafting innovative solutions to real-world problems.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **Education:** Bachelor of Technology (B.Tech) from Hindustan College of Science and Technology, Farah Mathura (2019-2023, CGPA: 7.9)
-- 💻 **Experience:** Web Application Developer at uCertify Training & Learning Pvt Ltd
-- 🛠️ **Expertise:** Full Stack Development, Machine Learning, Database Optimization
-- 🌱 **Learning:** Always exploring new technologies and trends
-- 🌍 **Location:** Agra, India
+# 👋 Hi, I'm Prashant Chaudhary  
+**Web Developer | Frontend & Backend Developer | AI + EdTech Integrator**
 
 ---
 
-## 💡 Skills
+## 🚀 About Me  
+I’m a passionate web developer with 2+ years of experience building full-stack solutions, AI-integrated tools, and highly interactive UI components for the EdTech space.  
+At **uCertify**, I’ve contributed to large-scale projects including AI-powered learning tools, virtual labs, SCORM modules, and complete UI overhauls using modern tech stacks like **React**, **Svelte**, **Bootstrap 5.3**, and **Python (FastAPI)**.
 
-- **Programming Languages:** Python, PHP
-- **Frontend Technologies:** HTML, CSS, JavaScript, Bootstrap, jQuery
-- **Backend Technologies:** MySQL, Machine Learning
-- **Tools & Platforms:** Pinecone Database, Git, AI Integration
-
----
-
-## 🚀 Projects
-
-### [Shopping Website](#)
-- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, PHP, MySQL
-- Users can browse products, manage carts, and wishlist. Admins oversee website operations.
-
-### [College Educational Resource Portal](#)
-- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, PHP, MySQL
-- A portal with distinct roles for students and administration for managing academic resources.
-
-### [Health and Fitness Website](#)
-- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, PHP, MySQL
-- Offers consultancy, shopping, and health courses with membership options.
+I focus on building performant, user-friendly, and scalable products that solve real-world problems — blending design, development, and intelligent automation.
 
 ---
 
-## 🏆 Certifications
+## 🛠️ Tech Stack
 
-- Full Stack Developer (IIT Kanpur)
-- Python (Udemy)
-- Data Structures and Algorithms (Udemy)
-
----
-
-## 📈 Achievements
-
-- ⭐ **4-star Python Developer** on HackerRank
-- 🌟 Developed a website for Makeup Salon & Academy ([njsalon.in](https://njsalon.in))
-- 💼 Created a freelance project: [sarkarinokariinfo.com](https://sarkarinokariinfo.com)
+**Frontend**: React, Svelte, JavaScript, HTML5, CSS3, Bootstrap 5, Redux Toolkit  
+**Backend**: Python (FastAPI, Flask), PHP  
+**Database**: MySQL  
+**Design Tools**: Figma, Canva  
+**Others**: Git, SCORM, AI APIs (OpenAI, Gemini), GCP
 
 ---
 
-## 🌐 Let's Connect
+## 📌 Key Achievements
 
-- 🌐 [Portfolio](http://myyportfolio.c1.biz)
-- 💼 [LinkedIn](https://linkedin.com/in/prashant-chaudhary-573788201)
-- 📧 [Email](mailto:prashantchaudhary1106@gmail.com)
-- 🐙 [GitHub](https://github.com/Prashant4444)
+- 🔁 Migrated an enterprise app from **Bootstrap 4 to 5.3**, improving speed and modernizing UI.
+- 🤖 Built AI-based tools like **Auto-Create** and **AI Slide Generator**, reducing manual effort by 70%.
+- 🎯 Developed **interactive modules** like Hardware Lab, Virtual Labs, Sandbox, and SCORM player.
+- 🧠 Integrated **ChatGPT Clone** and Gemini AI for intelligent learning workflows.
+- 🧩 Solved over **450+ UI/UX bugs**, improved modularity, and upgraded system architecture.
+- 💰 Achieved **93% cost reduction** in GCP billing via smart optimization.
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect for collaborations or opportunities. 😊
+## 🔗 Let’s Connect
+
+- 🌐 Portfolio: [prashantchaudhary.netlify.app](https://prashantchaudhary.netlify.app)
+- 💼 LinkedIn: [linkedin.com/in/prashantchaudhary11](https://linkedin.com/in/prashantchaudhary11)
+- 🧑‍💻 GitHub: [github.com/Prashant-Chaudhary-11](https://github.com/Prashant-Chaudhary-11)
+- 📧 Email: prashantchaudhary1106@gmail.com
+
+---
+
+## 📂 Featured Projects
+
+Here are some highlight projects (rebuilds or demos) based on my experience:
+
+- **AI-Powered Slide Generator** – Python + FastAPI + Gemini
+- **Virtual Lab Simulation App** – React + Canvas API
+- **Media Library & File Manager** – PHP + Bootstrap 5
+- **ChatGPT Clone for Learning Support** – React + OpenAI API
+- **Content Builder with Smart Question Analysis** – React + Python + AI
+
+👉 *Check my GitHub for detailed repositories and live demos.*
