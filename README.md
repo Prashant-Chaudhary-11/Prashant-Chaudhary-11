@@ -14,10 +14,10 @@ I focus on building performant, user-friendly, and scalable products that solve 
 ## 🛠️ Tech Stack
 
 **Frontend**: React, Svelte, JavaScript, HTML5, CSS3, Bootstrap 5, Redux Toolkit  
-**Backend**: Python (FastAPI, Flask), PHP  
+**Backend**: Python (FastAPI), PHP  
 **Database**: MySQL  
 **Design Tools**: Figma, Canva  
-**Others**: Git, SCORM, AI APIs (OpenAI, Gemini), GCP
+**Others**: Git, AI APIs (OpenAI, Gemini), GCP
 
 ---
 
@@ -25,7 +25,7 @@ I focus on building performant, user-friendly, and scalable products that solve 
 
 - 🔁 Migrated an enterprise app from **Bootstrap 4 to 5.3**, improving speed and modernizing UI.
 - 🤖 Built AI-based tools like **Auto-Create** and **AI Slide Generator**, reducing manual effort by 70%.
-- 🎯 Developed **interactive modules** like Hardware Lab, Virtual Labs, Sandbox, and SCORM player.
+- 🎯 Developed **interactive modules** like Hardware Lab, Sandbox, and SCORM player.
 - 🧠 Integrated **ChatGPT Clone** and Gemini AI for intelligent learning workflows.
 - 🧩 Solved over **450+ UI/UX bugs**, improved modularity, and upgraded system architecture.
 - 💰 Achieved **93% cost reduction** in GCP billing via smart optimization.
